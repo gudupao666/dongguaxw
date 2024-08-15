@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hzs on 冬瓜的小窝</title>
-    <link>https://xw.dongguact.top/hz/</link>
+    <link>http://localhost:1313/hz/</link>
     <description>Recent content in Hzs on 冬瓜的小窝</description>
     <image>
       <title>冬瓜的小窝</title>
@@ -11,13 +11,28 @@
     </image>
     <generator>Hugo -- 0.126.1</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 May 2024 23:35:15 +0800</lastBuildDate>
-    <atom:link href="https://xw.dongguact.top/hz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Aug 2024 21:55:29 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/hz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>面部护肤教程</title>
+      <link>http://localhost:1313/hz/hf/</link>
+      <pubDate>Thu, 15 Aug 2024 21:55:29 +0800</pubDate>
+      <guid>http://localhost:1313/hz/hf/</guid>
+      <description>概述 相信姐妹们都想变得很好看，你不好看不一定（是绝对）是因为你丑，而是护肤没做好（尖叫）
+好！今天就带来一期护肤教程！！！
+警告 不要试图尝试挤痘痘或者是强行挤黑头，要记住黑头和痘痘是挤不完的，激素永远比你更疯狂（尖叫）
+去痘痘+去黑头 相信青春期的姐妹们都讨厌死脸上的痘痘和黑头了，所以我们得使用护肤品去去痘痘
+关于美白 美白的话就是去角质➕洗面奶
+先去角质再洗面奶
+在次之前先去黑头和痘痘
+去角质：
+洗面奶：</description>
+    </item>
     <item>
       <title>脸部化妆</title>
-      <link>https://xw.dongguact.top/hz/01/</link>
+      <link>http://localhost:1313/hz/01/</link>
       <pubDate>Sun, 26 May 2024 23:35:15 +0800</pubDate>
-      <guid>https://xw.dongguact.top/hz/01/</guid>
+      <guid>http://localhost:1313/hz/01/</guid>
       <description>化妆不要想的很难其实很简单只要你肯去学！！！
 教程 https://www.bilibili.com/video/BV1qa411o7MT https://www.bilibili.com/video/BV1QV4y127qg/ https://www.bilibili.com/video/BV1Kz421Z7Xc https://www.bilibili.com/video/BV1ZA4y1Q7X2 https://www.bilibili.com/video/BV1Ng4116788
 化妆品推荐 这里瓜瓜（冬瓜，可以叫我瓜瓜）自己也没买过化妆品也没化过妆，都是根据好姐妹们给的资料写的Wiki，所以请大家多多投稿。

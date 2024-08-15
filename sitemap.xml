@@ -2,53 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xw.dongguact.top/jf/</loc>
+    <loc>http://localhost:1313/hz/</loc>
+    <lastmod>2024-08-15T21:55:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-15T21:55:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hz/hf/</loc>
+    <lastmod>2024-08-15T21:55:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jf/</loc>
     <lastmod>2024-08-15T20:54:56+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/</loc>
+    <loc>http://localhost:1313/jf/st/</loc>
     <lastmod>2024-08-15T20:54:56+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/jf/st/</loc>
-    <lastmod>2024-08-15T20:54:56+08:00</lastmod>
-  </url><url>
-    <loc>https://xw.dongguact.top/xlxw/</loc>
+    <loc>http://localhost:1313/xlxw/</loc>
     <lastmod>2024-07-16T14:24:00+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/xlxw/jv/</loc>
+    <loc>http://localhost:1313/xlxw/jv/</loc>
     <lastmod>2024-07-16T14:24:00+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/jf/03/</loc>
+    <loc>http://localhost:1313/jf/03/</loc>
     <lastmod>2024-06-02T00:59:53+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/jf/02/</loc>
+    <loc>http://localhost:1313/jf/02/</loc>
     <lastmod>2024-05-27T21:05:41+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/home/</loc>
+    <loc>http://localhost:1313/home/</loc>
     <lastmod>2024-05-27T00:17:11+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/home/about/</loc>
+    <loc>http://localhost:1313/home/about/</loc>
     <lastmod>2024-05-27T00:17:11+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/xlxw/zy/</loc>
+    <loc>http://localhost:1313/xlxw/zy/</loc>
     <lastmod>2024-05-26T23:45:26+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/cd/</loc>
+    <loc>http://localhost:1313/cd/</loc>
     <lastmod>2024-05-26T23:43:28+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/cd/01/</loc>
+    <loc>http://localhost:1313/cd/01/</loc>
     <lastmod>2024-05-26T23:43:28+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/jf/01/</loc>
+    <loc>http://localhost:1313/jf/01/</loc>
     <lastmod>2024-05-26T23:41:00+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/hz/</loc>
+    <loc>http://localhost:1313/hz/01/</loc>
     <lastmod>2024-05-26T23:35:15+08:00</lastmod>
   </url><url>
-    <loc>https://xw.dongguact.top/hz/01/</loc>
-    <lastmod>2024-05-26T23:35:15+08:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://xw.dongguact.top/categories/</loc>
-  </url><url>
-    <loc>https://xw.dongguact.top/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
